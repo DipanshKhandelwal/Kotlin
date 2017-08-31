@@ -1,3 +1,4 @@
+//This file shows how to take inputs and throw outputs to console window in Kotlin
 fun main(args: Array<String>) {
 
     println("Enter a string")

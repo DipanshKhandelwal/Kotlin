@@ -1,3 +1,4 @@
+//This file shows the implementaion of 'when' operator in Kotlin
 fun main(args: Array<String>) {
     println("Enter a number")
     var input:Int = readLine()!!.toInt();
