@@ -1,4 +1,4 @@
-// This file shows different types of function implpementations possible in Kotlin
+// This file shows how to use while loops in Kotlin
 fun main(args: Array<String>) {
 
     var arrayList = arrayListOf<String>()

@@ -1,4 +1,4 @@
-// This file shows different types of function implpementations possible in Kotlin
+// This file shows how can we use For Loops in Kotlin
 fun main(args: Array<String>) {
 
     var arrayList = arrayListOf<String>()

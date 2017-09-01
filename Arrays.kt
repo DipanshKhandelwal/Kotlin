@@ -1,4 +1,4 @@
-// This file shows different types of function implpementations possible in Kotlin
+// This file shows how to implement arrays and arraylists in Kotlin
 fun main(args: Array<String>) {
 
     var array = Array<Int>(5,{i->0})
