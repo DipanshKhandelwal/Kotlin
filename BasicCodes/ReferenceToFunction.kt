@@ -1,3 +1,4 @@
+//refrence to function in Kotlin
 fun main(args: Array<String>) {
     val numbers = listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
     println("Odd numbers - ${numbers.filter(::isOdd)}")
